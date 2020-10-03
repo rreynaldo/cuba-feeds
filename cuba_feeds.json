@@ -1,0 +1,102 @@
+{
+  "version": 0.13,
+  "release_date": "2020-10-03",
+  "last_modified": "2020-10-03",
+  "curated_feeds": [
+    {
+      "source_name": "Granma",
+      "source_url": "http:\/\/www.granma.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Juventud Rebelde",
+      "source_url": "http:\/\/www.juventudrebelde.cu\/get\/rss\/grupo\/generales",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Prensa Latina",
+      "source_url": "https:\/\/www.prensa-latina.cu\/index.php?o=vc&id=all",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Trabajadores",
+      "source_url": "http:\/\/www.trabajadores.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Cubadebate",
+      "source_url": "http:\/\/www.cubadebate.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Presidencia",
+      "source_url": "https:\/\/www.presidencia.gob.cu\/es\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Bohemia",
+      "source_url": "http:\/\/bohemia.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Cuba Ahora",
+      "source_url": "https:\/\/www.cubahora.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Radio Reloj",
+      "source_url": "http:\/\/www.radioreloj.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "El caimán Barbudo",
+      "source_url": "http:\/\/www.caimanbarbudo.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Alma Mater",
+      "source_url": "http:\/\/www.almamater.cu\/rss.xml",
+      "source_category": "National"
+    },
+    {
+      "source_name": "La Jiribilla",
+      "source_url": "http:\/\/lajiribilla.cu\/rss",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Periódico Guerrillero",
+      "source_url": "http:\/\/www.guerrillero.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Periódico 5 de Septiembre",
+      "source_url": "http:\/\/www.5septiembre.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name": "Periódico Escambray",
+      "source_url": "http:\/\/www.escambray.cu\/feed\/",
+      "source_category": "National"
+    },
+    {
+      "source_name":"Periódico Invasor",
+      "source_url":"http:\/\/www.invasor.cu\/es\/component\/obrss\/invasor-rss",
+      "source_category":"National"
+    },
+    {
+      "source_name":"Sierra Maestra",
+      "source_url":"http:\/\/www.sierramaestra.cu\/index.php?format=feed&type=rss",
+      "source_category":"National"
+    },
+    {
+      "source_name":"Periódico Venceremos",
+      "source_url":"http:\/\/www.venceremos.cu\/guantanamo-noticias?format=feed&type=rss",
+      "source_category":"National"
+    },
+    {
+      "source_name":"Periódico Victoria",
+      "source_url":"http:\/\/www.periodicovictoria.cu\/feed\/",
+      "source_category":"National"
+    }
+  ]
+}

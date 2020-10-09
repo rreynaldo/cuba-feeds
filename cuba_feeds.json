@@ -6,252 +6,252 @@
     {
       "source_name": "Granma",
       "source_url": "http:\/\/www.granma.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
       "source_color"   : "#B72120"
     },
     {
       "source_name": "Juventud Rebelde",
       "source_url": "http:\/\/www.juventudrebelde.cu\/get\/rss\/grupo\/generales",
-      "source_category": "National",
+      "source_category": "20",
        "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
       "source_color"   : "#B72120"
     },
     {
       "source_name": "Prensa Latina",
       "source_url": "https:\/\/www.prensa-latina.cu\/index.php?o=vc&id=all",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "https:\/\/www.prensa-latina.cu\/templates\/template_pl_2016\/images\/logo01.png",
       "source_color"   : "#0000FE"
     },
     {
       "source_name": "Trabajadores",
       "source_url": "http:\/\/www.trabajadores.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.trabajadores.cu\/favicon.ico",
       "source_color"   : "#FF7C00"
     },
     {
       "source_name": "Cubadebate",
       "source_url": "http:\/\/www.cubadebate.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.cubadebate.cu\/cubadebate-ipad.png",
       "source_color"   : "#EB2125"
     },
     {
       "source_name": "Presidencia",
       "source_url": "https:\/\/www.presidencia.gob.cu\/es\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "https:\/\/www.presidencia.gob.cu\/static\/assets/\img\/favicon\/favicon.ico",
       "source_color"   : "#0E4875"
     },
     {
       "source_name": "Bohemia",
       "source_url": "http:\/\/bohemia.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/bohemia.cu\/wp-content\/uploads\/2020\/07\/cropped-bohemia-favicon-1-32x32.jpg",
       "source_color"   : "#0A62A9"
     },
     {
       "source_name": "Cuba Ahora",
       "source_url": "https:\/\/www.cubahora.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "https:\/\/www.cubahora.cu\/favicon.png",
       "source_color"   : "#89C240"
     },
     {
       "source_name": "Radio Reloj",
       "source_url": "http:\/\/www.radioreloj.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.radioreloj.cu\/wp-includes\/images\/w-logo-blue-white-bg.png",
       "source_color"   : "#65A003"
     },
     {
       "source_name": "El caimán Barbudo",
       "source_url": "http:\/\/www.caimanbarbudo.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.caimanbarbudo.cu\/wp-content\/themes\/caimanbarbudo\/favicon.ico",
       "source_color"   : "#4D7906"
     },
     {
       "source_name": "Alma Mater",
       "source_url": "http:\/\/www.almamater.cu\/rss.xml",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.almamater.cu\/sites\/default\/files\/LogoAM_0.jpg",
       "source_color"   : "#CC0001"
     },
     {
       "source_name": "La Jiribilla",
       "source_url": "http:\/\/lajiribilla.cu\/rss",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/lajiribilla.cu\/themes\/jiribilla\/assets\/img\/favicon.ico",
       "source_color"   : "#EF8C38"
     },
     {
       "source_name": "Periódico Guerrillero",
       "source_url": "http:\/\/www.guerrillero.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "",
       "source_color"   : "#B72120"
     },
     {
       "source_name": "Periódico 5 de Septiembre",
       "source_url": "http:\/\/www.5septiembre.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.5septiembre.cu\/wp-content\/uploads\/2019\/05\/logo-oficial-periodico.jpg",
       "source_color"   : "#057DC6"
     },
     {
       "source_name": "Periódico Escambray",
       "source_url": "http:\/\/www.escambray.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.escambray.cu\/favicon.ico",
       "source_color"   : "#BB0200"
     },
     {
       "source_name":"Periódico Invasor",
       "source_url":"http:\/\/www.invasor.cu\/es\/component\/obrss\/invasor-rss",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.invasor.cu\/templates\/purity_iii\/favicon.ico",
       "source_color"   : "#7A0808"
     },
     {
       "source_name":"Sierra Maestra",
       "source_url":"http:\/\/www.sierramaestra.cu\/index.php?format=feed&type=rss",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.sierramaestra.cu\/templates\/gk_twn2\/favicon.ico",
       "source_color"   : "#FF0000"
     },
     {
       "source_name":"Periódico Venceremos",
       "source_url":"http:\/\/www.venceremos.cu\/guantanamo-noticias?format=feed&type=rss",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.venceremos.cu\/templates\/protostar\/favicon.ico",
       "source_color"   : "#CC0000"
     },
     {
       "source_name":"Periódico Victoria",
       "source_url":"http:\/\/www.periodicovictoria.cu\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.periodicovictoria.cu\/wp-content\/uploads\/2018\/01\/cropped-icono-victoria-32x32.png",
       "source_color"   : "#FF010D"
     },
      {
       "source_name":"CMHW",
       "source_url":"http:\/\/www.cmhw.cu\/?format=feed&type=rss",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.cmhw.cu\/templates\/radio\/favicon.ico",
       "source_color"   : "#00BCE6"
     },
     {
       "source_name":"Periódico Vanguardia",
       "source_url":"http:\/\/www.vanguardia.cu\/?format=feed&type=rss",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.vanguardia.cu\/templates\/vanguardia\/favicon.ico",
       "source_color"   : "#00386C"
     },
     {
       "source_name":"Radio Ciudad del Mar",
       "source_url":"http:\/\/www.rcm.cu\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.rcm.cu\/wp-content\/uploads\/2020\/08\/cropped-logorcm-1-192x192.jpg",
       "source_color"   : "#328696"
     },
      {
       "source_name":"Centrovision",
       "source_url":"http:\/\/www.centrovision.icrt.cu\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http://www.centrovision.icrt.cu/wp-content/uploads/2015/12/cropped-bannerlogo-192x192.gif",
       "source_color"   : "#A64017"
     },
      {
       "source_name":"Radio Caribe",
       "source_url":"http:\/\/www.radiocaribe.icrt.cu\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.radiocaribe.icrt.cu\/wp-content\/uploads\/2020\/03\/logo.png",
       "source_color"   : "#F57E83"
     },
      {
       "source_name":"Tele Pinar",
       "source_url":"http:\/\/www.telepinar.cu\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.telepinar.cu\/wp-content\/uploads\/2019\/04\/favicon-telepinar-144x144.png",
       "source_color"   : "#00B213"
     },
     {
       "source_name":"Radio Sanctis Spiritus",
       "source_url":"http:\/\/www.radiosanctispiritus.cu\/es\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.radiosanctispiritus.cu\/es\/wp-content\/uploads\/2019\/11\/logo-radio-sancti-spiritus.jpg",
       "source_color"   : "#80100E"
     },
      {
       "source_name":"Radio Habana Cuba",
       "source_url":"http:\/\/www.radiohc.cu\/feed",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.radiohc.cu\/images\/logo-color.png",
       "source_color"   : "#67819C"
     },
     {
       "source_name":"Tiempo21",
       "source_url":"http:\/\/www.tiempo21.cu\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.tiempo21.cu\/wp-content\/uploads\/2020\/01\/tiempo21cuba-e1584717888479.png",
       "source_color"   : "#A00A0A"
     },
      {
       "source_name":"Tv Yumuri",
       "source_url":"http:\/\/www.tvyumuri.icrt.cu\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.tvyumuri.icrt.cu\/wp-content\/uploads\/2018\/05\/favicon-luto.png",
       "source_color"   : "#D6D6D6"
     },
     {
       "source_name":"Radio Angulo",
       "source_url":"http:\/\/www.radioangulo.cu\/?format=feed&type=rss",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.radioangulo.cu\/images\/logo\/logo-ra-favicon-blue-resized.png",
       "source_color"   : "#184E75"
     },
     {
       "source_name":"CMKX Radio Bayamo",
       "source_url":"http:\/\/www.radiobayamo.icrt.cu\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.radiobayamo.icrt.cu\/wp-content\/uploads\/2020\/08\/cropped-log3-192x192.png",
       "source_color"   : "#FE0000"
     },
      {
       "source_name":"Radio Guaimaro",
       "source_url":"http:\/\/www.radioguaimaro.icrt.cu\/es\/?format=feed&type=rss",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.radioguaimaro.icrt.cu\/templates\/gk_news2\/images\/touch-device.png",
       "source_color"   : "#B84735"
     },
      {
       "source_name":"Invasor",
       "source_url":"http:\/\/www.invasor.cu\/es\/component\/obrss\/invasor-rss",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.invasor.cu\/templates\/purity_iii\/favicon.ico",
       "source_color"   : "#D30404"
     },
       {
       "source_name":"Tv Avileña",
       "source_url":"http:\/\/www.tvavila.icrt.cu\/feed\/",
-      "source_category":"National",
+      "source_category":"20",
       "source_favicon" : "http:\/\/www.tvavila.icrt.cu\/wp-content\/uploads\/2017\/04\/cropped-logo_web.png",
       "source_color"   : "#FED71F"
     },
     {
       "source_name": "Radio Surco",
       "source_url":"http:\/\/www.radiosurco.icrt.cu\/feed\/",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.radiosurco.icrt.cu\/wp-content\/uploads\/2020\/01\/Logo.png",
       "source_color"   : "#A88132"
     },  
     {
       "source_name": "Radio Nuevitas",
       "source_url":"http:\/\/www.radionuevitas.icrt.cu\/?format=feed&type=rss",
-      "source_category": "National",
+      "source_category": "20",
       "source_favicon" : "http:\/\/www.radionuevitas.icrt.cu\/images\/logo-radio-nuevitas.jpg",
       "source_color"   : "#5994B4"
     }    

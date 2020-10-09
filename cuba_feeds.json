@@ -1,7 +1,7 @@
 {
-  "version": 0.13,
+  "version": 0.15,
   "release_date": "2020-10-03",
-  "last_modified": "2020-10-03",
+  "last_modified": "2020-10-09",
   "curated_feeds": [
     {
       "source_name": "Granma",
@@ -200,11 +200,60 @@
       "source_color"   : "#A00A0A"
     },
      {
-      "source_name":"Tiempo21",
-      "source_url":"http:\/\/www.tiempo21.cu\/feed\/",
+      "source_name":"Tv Yumuri",
+      "source_url":"http:\/\/www.tvyumuri.icrt.cu\/feed\/",
       "source_category":"National",
-      "source_favicon" : "http:\/\/www.cnctvgranma.cu\/wp-content\/uploads\/2019\/04\/logo-150x120.png",
-      "source_color"   : "#92241F"
+      "source_favicon" : "http:\/\/www.tvyumuri.icrt.cu\/wp-content\/uploads\/2018\/05\/favicon-luto.png",
+      "source_color"   : "#D6D6D6"
     },
+    {
+      "source_name":"Radio Angulo",
+      "source_url":"http:\/\/www.radioangulo.cu\/?format=feed&type=rss",
+      "source_category":"National",
+      "source_favicon" : "http:\/\/www.radioangulo.cu\/images\/logo\/logo-ra-favicon-blue-resized.png",
+      "source_color"   : "#184E75"
+    },
+    {
+      "source_name":"CMKX Radio Bayamo",
+      "source_url":"http:\/\/www.radiobayamo.icrt.cu\/feed\/",
+      "source_category":"National",
+      "source_favicon" : "http:\/\/www.radiobayamo.icrt.cu\/wp-content\/uploads\/2020\/08\/cropped-log3-192x192.png",
+      "source_color"   : "#FE0000"
+    },
+     {
+      "source_name":"Radio Guaimaro",
+      "source_url":"http:\/\/www.radioguaimaro.icrt.cu\/es\/?format=feed&type=rss",
+      "source_category":"National",
+      "source_favicon" : "http:\/\/www.radioguaimaro.icrt.cu\/templates\/gk_news2\/images\/touch-device.png",
+      "source_color"   : "#B84735"
+    },
+     {
+      "source_name":"Invasor",
+      "source_url":"http:\/\/www.invasor.cu\/es\/component\/obrss\/invasor-rss",
+      "source_category":"National",
+      "source_favicon" : "http:\/\/www.invasor.cu\/templates\/purity_iii\/favicon.ico",
+      "source_color"   : "#D30404"
+    },
+      {
+      "source_name":"Tv Avileña",
+      "source_url":"http:\/\/www.tvavila.icrt.cu\/feed\/",
+      "source_category":"National",
+      "source_favicon" : "http:\/\/www.tvavila.icrt.cu\/wp-content\/uploads\/2017\/04\/cropped-logo_web.png",
+      "source_color"   : "#FED71F"
+    },
+    {
+      "source_name": "Radio Surco",
+      "source_url":"http:\/\/www.radiosurco.icrt.cu\/feed\/",
+      "source_category": "National",
+      "source_favicon" : "http:\/\/www.radiosurco.icrt.cu\/wp-content\/uploads\/2020\/01\/Logo.png",
+      "source_color"   : "#A88132"
+    },  
+    {
+      "source_name": "Radio Nuevitas",
+      "source_url":"http:\/\/www.radionuevitas.icrt.cu\/?format=feed&type=rss",
+      "source_category": "National",
+      "source_favicon" : "http:\/\/www.radionuevitas.icrt.cu\/images\/logo-radio-nuevitas.jpg",
+      "source_color"   : "#5994B4"
+    }    
   ]
 }

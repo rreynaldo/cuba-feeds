@@ -77,64 +77,64 @@
       "source_name": "Alma Mater",
       "source_url": "http:\/\/www.almamater.cu\/rss.xml",
       "source_category": "National",
-      "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
-      "source_color"   : "#B72120"
+      "source_favicon" : "http:\/\/www.almamater.cu\/sites\/default\/files\/LogoAM_0.jpg",
+      "source_color"   : "#CC0001"
     },
     {
       "source_name": "La Jiribilla",
       "source_url": "http:\/\/lajiribilla.cu\/rss",
       "source_category": "National",
-      "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
-      "source_color"   : "#B72120"
+      "source_favicon" : "http:\/\/lajiribilla.cu\/themes\/jiribilla\/assets\/img\/favicon.ico",
+      "source_color"   : "#EF8C38"
     },
     {
       "source_name": "Periódico Guerrillero",
       "source_url": "http:\/\/www.guerrillero.cu\/feed\/",
       "source_category": "National",
-      "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
+      "source_favicon" : "",
       "source_color"   : "#B72120"
     },
     {
       "source_name": "Periódico 5 de Septiembre",
       "source_url": "http:\/\/www.5septiembre.cu\/feed\/",
       "source_category": "National",
-      "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
-      "source_color"   : "#B72120"
+      "source_favicon" : "http:\/\/www.5septiembre.cu\/wp-content\/uploads\/2019\/05\/logo-oficial-periodico.jpg",
+      "source_color"   : "#057DC6"
     },
     {
       "source_name": "Periódico Escambray",
       "source_url": "http:\/\/www.escambray.cu\/feed\/",
       "source_category": "National",
-      "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
-      "source_color"   : "#B72120"
+      "source_favicon" : "http:\/\/www.escambray.cu\/favicon.ico",
+      "source_color"   : "#BB0200"
     },
     {
       "source_name":"Periódico Invasor",
       "source_url":"http:\/\/www.invasor.cu\/es\/component\/obrss\/invasor-rss",
       "source_category":"National",
-      "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
-      "source_color"   : "#B72120"
+      "source_favicon" : "http:\/\/www.invasor.cu\/templates\/purity_iii\/favicon.ico",
+      "source_color"   : "#7A0808"
     },
     {
       "source_name":"Sierra Maestra",
       "source_url":"http:\/\/www.sierramaestra.cu\/index.php?format=feed&type=rss",
       "source_category":"National",
-      "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
-      "source_color"   : "#B72120"
+      "source_favicon" : "http:\/\/www.sierramaestra.cu\/templates\/gk_twn2\/favicon.ico",
+      "source_color"   : "#FF0000"
     },
     {
       "source_name":"Periódico Venceremos",
       "source_url":"http:\/\/www.venceremos.cu\/guantanamo-noticias?format=feed&type=rss",
       "source_category":"National",
-      "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
-      "source_color"   : "#B72120"
+      "source_favicon" : "http:\/\/www.venceremos.cu\/templates\/protostar\/favicon.ico",
+      "source_color"   : "#CC0000"
     },
     {
       "source_name":"Periódico Victoria",
       "source_url":"http:\/\/www.periodicovictoria.cu\/feed\/",
       "source_category":"National",
-      "source_favicon" : "http:\/\/www.granma.cu\/static\/img\/logo-facebook.jpg",
-      "source_color"   : "#B72120"
+      "source_favicon" : "http:\/\/www.periodicovictoria.cu\/wp-content\/uploads\/2018\/01\/cropped-icono-victoria-32x32.png",
+      "source_color"   : "#FF010D"
     },
      {
       "source_name":"CMHW",
